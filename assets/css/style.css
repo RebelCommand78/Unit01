@@ -78,6 +78,16 @@ input{
     padding: 10px;
 }
 
+.left{
+    float: left;
+}
+
+.right{
+    clear: both;
+    float: right;
+    
+}
+
 footer{
     clear: both;
     display: block;
